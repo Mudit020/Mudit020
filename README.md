@@ -15,7 +15,7 @@ I enjoy building practical applications, exploring new technologies, and turning
 - 😄 **Pronouns:** Mudit
 - ⚡ **Fun fact:** I like turning random ideas into projects just to see if I can actually build them. 🚀
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mudit-raj-gajpal-2b5b74290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muditraj004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudit-raj-gajpal-2b5b74290/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muditraj004@gmail.com)
 
 <!-- Snake Game Repo View -->
 
